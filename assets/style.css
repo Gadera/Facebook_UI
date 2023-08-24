@@ -4,14 +4,12 @@
 
 .header{
     width: 88%;
-    /* height: 100px; */
     display: flex;
     flex-wrap: wrap;
     padding-left: 6%;
     padding-right: 6%;
     padding-top: 25px;
     padding-bottom: 15px;
-    /* background-color: #F0F0F0; */
 }
 
 .header .fa-facebook-f{
